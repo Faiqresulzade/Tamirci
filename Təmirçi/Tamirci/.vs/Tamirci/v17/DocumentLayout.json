@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\mssqldb\\mssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\mssqldb\\mssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\mongodb\\mongodbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\mongodb\\mongodbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.repository.contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|solutionrelative:core\\tamirci.repository.contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.repository.contracts\\mongodb\\imongodbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|solutionrelative:core\\tamirci.repository.contracts\\mongodb\\imongodbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.repository.contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|solutionrelative:core\\tamirci.repository.contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.repository.contracts\\mssqldb\\imssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|solutionrelative:core\\tamirci.repository.contracts\\mssqldb\\imssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E23D6-53EA-4D28-B3D6-8F9ABB40EE16}|API\\API.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E23D6-53EA-4D28-B3D6-8F9ABB40EE16}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +66,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDbRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\MongoDB\\MongoDbRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\MongoDB\\MongoDbRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\MongoDB\\MongoDbRepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\MongoDB\\MongoDbRepositoryBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:23:30.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MsSqlDBRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\MSSQLDB\\MsSqlDBRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\MSSQLDB\\MsSqlDBRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\MSSQLDB\\MsSqlDBRepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\MSSQLDB\\MsSqlDBRepositoryBase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:24:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RepositoryManager.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\RepositoryManager.cs",
               "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryManager.cs",
               "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\RepositoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T19:41:13.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Repository.Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Core\\Tamirci.Repository.Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:32:32.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:31:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:22:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMongoDbRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\MongoDB\\IMongoDbRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Repository.Contracts\\MongoDB\\IMongoDbRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\MongoDB\\IMongoDbRepositoryBase.cs",
+              "RelativeToolTip": "Core\\Tamirci.Repository.Contracts\\MongoDB\\IMongoDbRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:42:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Repository.Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Core\\Tamirci.Repository.Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:32:11.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMsSqlDBRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IMsSqlDBRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IMsSqlDBRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IMsSqlDBRepositoryBase.cs",
+              "RelativeToolTip": "Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IMsSqlDBRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:43:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:10:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\ServiceManager.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\ServiceManager.cs",
@@ -51,8 +204,7 @@
               "RelativeToolTip": "Infrastructure\\Tamirci.Services\\ServiceManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T19:40:40.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T19:40:40.178Z"
             }
           ]
         }

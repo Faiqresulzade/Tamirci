@@ -1,5 +1,7 @@
-﻿namespace Tamirci.Repositories;
+﻿using Tamirci.Repository.Contracts;
 
-internal class RepositoryManager
+namespace Tamirci.Repositories;
+
+public class RepositoryManager : IRepositoryManager
 {
 }
