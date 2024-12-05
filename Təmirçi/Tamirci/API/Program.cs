@@ -7,6 +7,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddRepository(builder.Configuration);
+builder.Services.AddScoped<ProductService, IProductService>();
 
 builder.Configuration
     .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)

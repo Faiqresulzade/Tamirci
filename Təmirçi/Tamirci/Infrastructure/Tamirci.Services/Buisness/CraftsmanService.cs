@@ -4,4 +4,5 @@ namespace Tamirci.Services.Buisness;
 
 public class CraftsmanService : ICraftsmanService
 {
+    
 }
