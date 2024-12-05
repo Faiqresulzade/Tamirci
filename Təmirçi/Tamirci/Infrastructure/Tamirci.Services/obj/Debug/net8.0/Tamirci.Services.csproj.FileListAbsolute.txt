@@ -1,0 +1,12 @@
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\bin\Debug\net8.0\Tamirci.Services.deps.json
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\bin\Debug\net8.0\Tamirci.Services.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\bin\Debug\net8.0\Tamirci.Services.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.AssemblyInfo.cs
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.sourcelink.json
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\refint\Tamirci.Services.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\Tamirci.Services.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Services\obj\Debug\net8.0\ref\Tamirci.Services.dll

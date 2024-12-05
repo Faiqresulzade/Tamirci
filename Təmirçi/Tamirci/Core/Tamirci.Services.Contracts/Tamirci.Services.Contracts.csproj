@@ -7,8 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Buisness\" />
     <Folder Include="Factories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tamirci.Entities\Tamirci.Entities.csproj" />
   </ItemGroup>
 
 </Project>

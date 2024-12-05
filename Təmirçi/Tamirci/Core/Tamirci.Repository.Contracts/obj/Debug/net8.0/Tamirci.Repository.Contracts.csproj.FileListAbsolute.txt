@@ -1,0 +1,16 @@
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\bin\Debug\net8.0\Tamirci.Repository.Contracts.deps.json
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\bin\Debug\net8.0\Tamirci.Repository.Contracts.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\bin\Debug\net8.0\Tamirci.Repository.Contracts.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\bin\Debug\net8.0\Tamirci.Entities.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\bin\Debug\net8.0\Tamirci.Entities.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.AssemblyInfo.cs
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.sourcelink.json
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci..2B4731B8.Up2Date
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\refint\Tamirci.Repository.Contracts.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\Tamirci.Repository.Contracts.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Repository.Contracts\obj\Debug\net8.0\ref\Tamirci.Repository.Contracts.dll

@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Buisness\" />
-    <Folder Include="Factories\" />
+    <ProjectReference Include="..\..\Core\Tamirci.Services.Contracts\Tamirci.Services.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
