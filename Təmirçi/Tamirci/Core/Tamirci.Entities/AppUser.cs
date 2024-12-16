@@ -2,7 +2,6 @@
 using Tamirci.Entities.Bases;
 
 namespace Tamirci.Entities;
-
 public class AppUser : IdentityUser, IHasCreateDate, IHasUpdateDate
 {
     public DateTime UpdateDate { get; set; }

@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoDIRegister" Version="1.0.4" />
     <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="9.0.0" />
   </ItemGroup>
 

@@ -1,13 +1,38 @@
+using Microsoft.AspNetCore.Identity;
+using ServicesRegisterPlugin.Extensions;
+using Tamirci.Entities;
+using Tamirci.Presentation;
+using Tamirci.Repositories;
 using Tamirci.Repositories.Registrations;
+using Tamirci.Services;
+using Tamirci.Services.Contracts;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddApplicationPart(typeof(AssemblyReferance).Assembly);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IServiceManager,ServiceManager>();
+builder.Services.AddDataProtection();
+builder.Services.AddIdentityCore<Craftsman>(opt =>
+{
+    opt.Password.RequireNonAlphanumeric = false; 
+    opt.Password.RequiredLength = 2;            
+    opt.Password.RequireLowercase = false;       
+    opt.Password.RequireUppercase = false;       
+    opt.Password.RequireDigit = false;           
 
+    opt.SignIn.RequireConfirmedEmail = false;    
+})
+.AddRoles<IdentityRole>()                         
+.AddEntityFrameworkStores<AppDbContext>()        
+.AddDefaultTokenProviders();
+
+builder.Services.RegisterServices(configure =>
+{
+    configure.AssemblyPrefix = "Tamirci";
+});
 builder.Services.AddRepository(builder.Configuration);
-builder.Services.AddScoped<ProductService, IProductService>();
 
 builder.Configuration
     .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)

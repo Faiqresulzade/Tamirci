@@ -1,14 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Tamirci.Application.DTOs;
 using Tamirci.Services.Contracts;
 
 namespace Tamirci.Presentation.Controllers;
 
+[Route("api/[controller]/[action]"), ApiController]
 public class CraftsmanController : BaseController
 {
     public CraftsmanController(IServiceManager serviceManager) : base(serviceManager) { }
 
-    public async Task<IActionResult> Register()
+    [HttpPost]
+    public async Task<IActionResult> Register([FromForm]CraftsmanRegisterDto request)
     {
-        _serviceManager.CraftsmanService.RegisterAsync();
+       await _serviceManager.CraftsmanService.RegisterAsync(request);
+        return Ok();
     }
 }

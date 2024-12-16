@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoDIRegister/1.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
+        },
+        "compile": {
+          "lib/net8.0/ServicesRegisterPlugin.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/ServicesRegisterPlugin.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/9.0.0": {
         "type": "package",
         "compile": {
@@ -238,6 +250,20 @@
     }
   },
   "libraries": {
+    "AutoDIRegister/1.0.4": {
+      "sha512": "BiPqoH8mQY/71KjySF7vy/wlDnecheGEV+UNm81TlX7VE5ucN5xsBwsWP5VhRKg6Izl30b/MZ786hOIPLvOt/g==",
+      "type": "package",
+      "path": "autodiregister/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "DI.png",
+        "README.md",
+        "autodiregister.1.0.4.nupkg.sha512",
+        "autodiregister.nuspec",
+        "lib/net8.0/ServicesRegisterPlugin.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/9.0.0": {
       "sha512": "M1dzTEl+2+RqT4vWcqEpWasPXHd58wC93U7QMlmPSmx+qixyVxCQjZ183wr7Wa68b4pF7wC501MU9rdA0ZNhMg==",
       "type": "package",
@@ -701,6 +727,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoDIRegister >= 1.0.4",
       "Microsoft.Extensions.Identity.Stores >= 9.0.0"
     ]
   },
@@ -749,6 +776,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "AutoDIRegister": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          },
           "Microsoft.Extensions.Identity.Stores": {
             "target": "Package",
             "version": "[9.0.0, )"

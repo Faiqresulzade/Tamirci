@@ -3,52 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\buisness\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|solutionrelative:infrastructure\\tamirci.services\\buisness\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75CA0005-206E-4038-8BD7-A039645809B4}|Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.presentation\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CA0005-206E-4038-8BD7-A039645809B4}|Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj|solutionrelative:infrastructure\\tamirci.presentation\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964FB840-DA2A-4BA9-9D72-7F7B8565A99D}|Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.services.contracts\\buisness\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964FB840-DA2A-4BA9-9D72-7F7B8565A99D}|Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj|solutionrelative:core\\tamirci.services.contracts\\buisness\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B58550C-C723-4959-BA42-E2AC7421BF0E}|Core\\Tamirci.Application\\Tamirci.Application.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.application\\dtos\\craftsmanregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B58550C-C723-4959-BA42-E2AC7421BF0E}|Core\\Tamirci.Application\\Tamirci.Application.csproj|solutionrelative:core\\tamirci.application\\dtos\\craftsmanregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B58550C-C723-4959-BA42-E2AC7421BF0E}|Core\\Tamirci.Application\\Tamirci.Application.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.application\\mappingprofile\\craftsmanmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B58550C-C723-4959-BA42-E2AC7421BF0E}|Core\\Tamirci.Application\\Tamirci.Application.csproj|solutionrelative:core\\tamirci.application\\mappingprofile\\craftsmanmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\factories\\craftsmanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|solutionrelative:infrastructure\\tamirci.services\\factories\\craftsmanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\buisness\\craftsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|solutionrelative:infrastructure\\tamirci.services\\buisness\\craftsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|solutionrelative:infrastructure\\tamirci.services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75CA0005-206E-4038-8BD7-A039645809B4}|Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.presentation\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CA0005-206E-4038-8BD7-A039645809B4}|Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj|solutionrelative:infrastructure\\tamirci.presentation\\controllers\\craftsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B28E23D6-53EA-4D28-B3D6-8F9ABB40EE16}|API\\API.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28E23D6-53EA-4D28-B3D6-8F9ABB40EE16}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964FB840-DA2A-4BA9-9D72-7F7B8565A99D}|Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.services.contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964FB840-DA2A-4BA9-9D72-7F7B8565A99D}|Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj|solutionrelative:core\\tamirci.services.contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\mssqldb\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\mssqldb\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|solutionrelative:core\\tamirci.entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\mssqldb\\mssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\mssqldb\\mssqldbrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.repository.contracts\\mssqldb\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B8E3C2E-A605-4FBA-8162-91D7002C2D3B}|Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj|solutionrelative:core\\tamirci.repository.contracts\\mssqldb\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|solutionrelative:core\\tamirci.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\buisness\\craftsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|solutionrelative:infrastructure\\tamirci.services\\buisness\\craftsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,32 +47,12 @@
       "RelativeMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|solutionrelative:core\\tamirci.entities\\bases\\ihascreatedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964FB840-DA2A-4BA9-9D72-7F7B8565A99D}|Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.services.contracts\\buisness\\icraftsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964FB840-DA2A-4BA9-9D72-7F7B8565A99D}|Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj|solutionrelative:core\\tamirci.services.contracts\\buisness\\icraftsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75CA0005-206E-4038-8BD7-A039645809B4}|Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.presentation\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75CA0005-206E-4038-8BD7-A039645809B4}|Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj|solutionrelative:infrastructure\\tamirci.presentation\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.services\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1693DF-4A9C-4903-B7FC-9656A1C11876}|Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj|solutionrelative:infrastructure\\tamirci.services\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|solutionrelative:core\\tamirci.entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|solutionrelative:core\\tamirci.entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\core\\tamirci.entities\\craftsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC130DA3-2F47-4C54-8055-757FA7BB2E7F}|Core\\Tamirci.Entities\\Tamirci.Entities.csproj|solutionrelative:core\\tamirci.entities\\craftsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\registrations\\repositorylayerregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|solutionrelative:infrastructure\\tamirci.repositories\\registrations\\repositorylayerregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78E3B6CE-4E94-48D6-BDCE-F201880695FF}|Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj|c:\\users\\honor\\desktop\\temircisayti\\t\u0259mir\u00E7i\\tamirci\\infrastructure\\tamirci.repositories\\configurations\\craftsmanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,97 +70,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Buisness\\ProductService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\Buisness\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Buisness\\ProductService.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\Buisness\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:31:27.924Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Services.Contracts\\Buisness\\IProductService.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Services.Contracts\\Buisness\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Services.Contracts\\Buisness\\IProductService.cs",
-              "RelativeToolTip": "Core\\Tamirci.Services.Contracts\\Buisness\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:30:53.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\ServiceManager.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\ServiceManager.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\ServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:29:06.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Services.Contracts\\IServiceManager.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Services.Contracts\\IServiceManager.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Services.Contracts\\IServiceManager.cs",
-              "RelativeToolTip": "Core\\Tamirci.Services.Contracts\\IServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:29:44.46Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Title": "CraftsmanService.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:09:56.373Z",
+              "WhenOpened": "2024-12-05T18:28:02.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CraftsmanFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Factories\\CraftsmanFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\Factories\\CraftsmanFactory.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Factories\\CraftsmanFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\Factories\\CraftsmanFactory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:20:34.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Tamirci.Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:58:13.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CraftsmanController.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Controllers\\CraftsmanController.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Presentation\\Controllers\\CraftsmanController.cs",
               "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Controllers\\CraftsmanController.cs",
               "RelativeToolTip": "Infrastructure\\Tamirci.Presentation\\Controllers\\CraftsmanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T18:25:42.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\MSSQLDB\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\MSSQLDB\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\MSSQLDB\\ProductRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\MSSQLDB\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CraftsmanMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Application\\MappingProfile\\CraftsmanMapper.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Application\\MappingProfile\\CraftsmanMapper.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Application\\MappingProfile\\CraftsmanMapper.cs",
+              "RelativeToolTip": "Core\\Tamirci.Application\\MappingProfile\\CraftsmanMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:28:59.558Z",
+              "WhenOpened": "2024-12-16T17:34:04.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CraftsmanRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Application\\DTOs\\CraftsmanRegisterDto.cs",
+              "RelativeDocumentMoniker": "Core\\Tamirci.Application\\DTOs\\CraftsmanRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Application\\DTOs\\CraftsmanRegisterDto.cs",
+              "RelativeToolTip": "Core\\Tamirci.Application\\DTOs\\CraftsmanRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:26:37.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\ServiceManager.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:45:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:22:48.764Z",
               "EditorCaption": ""
             },
             {
@@ -210,46 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IProductRepository.cs",
-              "RelativeToolTip": "Core\\Tamirci.Repository.Contracts\\MSSQLDB\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:28:03.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\Product.cs",
-              "RelativeToolTip": "Core\\Tamirci.Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:26:21.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:22:48.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "IHasCreateDate.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\Bases\\IHasCreateDate.cs",
               "RelativeDocumentMoniker": "Core\\Tamirci.Entities\\Bases\\IHasCreateDate.cs",
@@ -261,16 +211,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Presentation\\BaseController.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Presentation\\BaseController.cs",
@@ -283,20 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CraftsmanService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\Buisness\\CraftsmanService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:28:02.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\AppDbContext.cs",
@@ -309,68 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICraftsmanService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Services.Contracts\\Buisness\\ICraftsmanService.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Services.Contracts\\Buisness\\ICraftsmanService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Services.Contracts\\Buisness\\ICraftsmanService.cs",
-              "RelativeToolTip": "Core\\Tamirci.Services.Contracts\\Buisness\\ICraftsmanService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:28:31.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Factories\\UserFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Services\\Factories\\UserFactory.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Services\\Factories\\UserFactory.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Services\\Factories\\UserFactory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:20:34.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RepositoryLayerRegistrations.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Registrations\\RepositoryLayerRegistrations.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\Registrations\\RepositoryLayerRegistrations.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Registrations\\RepositoryLayerRegistrations.cs",
-              "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\Registrations\\RepositoryLayerRegistrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:11:39.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\AppUser.cs",
-              "RelativeToolTip": "Core\\Tamirci.Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T17:58:13.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Craftsman.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\Craftsman.cs",
-              "RelativeDocumentMoniker": "Core\\Tamirci.Entities\\Craftsman.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\Craftsman.cs",
-              "RelativeToolTip": "Core\\Tamirci.Entities\\Craftsman.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:06:13.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Core\\Tamirci.Entities\\RefreshToken.cs",
               "RelativeDocumentMoniker": "Core\\Tamirci.Entities\\RefreshToken.cs",
@@ -378,11 +246,12 @@
               "RelativeToolTip": "Core\\Tamirci.Entities\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:20:12.043Z"
+              "WhenOpened": "2024-12-04T16:20:12.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "CraftsmanConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Configurations\\CraftsmanConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\Configurations\\CraftsmanConfiguration.cs",
@@ -390,11 +259,12 @@
               "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\Configurations\\CraftsmanConfiguration.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:29:23.971Z"
+              "WhenOpened": "2024-12-04T16:29:23.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 14,
               "Title": "Tamirci.Repositories.csproj",
               "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\T\u0259mir\u00E7i\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
@@ -402,7 +272,8 @@
               "RelativeToolTip": "Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-04T17:02:38.258Z"
+              "WhenOpened": "2024-12-04T17:02:38.258Z",
+              "EditorCaption": ""
             }
           ]
         }

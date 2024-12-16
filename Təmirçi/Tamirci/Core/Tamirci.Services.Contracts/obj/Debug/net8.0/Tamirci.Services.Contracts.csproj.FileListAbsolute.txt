@@ -10,3 +10,9 @@ C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Cont
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\obj\Debug\net8.0\refint\Tamirci.Services.Contracts.dll
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\obj\Debug\net8.0\Tamirci.Services.Contracts.pdb
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\obj\Debug\net8.0\ref\Tamirci.Services.Contracts.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\obj\Debug\net8.0\Tamirci.Services.Contracts.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Entities.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Entities.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\obj\Debug\net8.0\Tamirci..F115CB73.Up2Date
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Application.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Application.pdb

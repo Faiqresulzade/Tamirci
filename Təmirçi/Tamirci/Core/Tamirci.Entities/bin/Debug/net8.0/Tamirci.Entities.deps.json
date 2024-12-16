@@ -8,10 +8,22 @@
     ".NETCoreApp,Version=v8.0": {
       "Tamirci.Entities/1.0.0": {
         "dependencies": {
+          "AutoDIRegister": "1.0.4",
           "Microsoft.Extensions.Identity.Stores": "9.0.0"
         },
         "runtime": {
           "Tamirci.Entities.dll": {}
+        }
+      },
+      "AutoDIRegister/1.0.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/ServicesRegisterPlugin.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/9.0.0": {
@@ -151,6 +163,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoDIRegister/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BiPqoH8mQY/71KjySF7vy/wlDnecheGEV+UNm81TlX7VE5ucN5xsBwsWP5VhRKg6Izl30b/MZ786hOIPLvOt/g==",
+      "path": "autodiregister/1.0.4",
+      "hashPath": "autodiregister.1.0.4.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/9.0.0": {
       "type": "package",

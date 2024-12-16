@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Tamirci.Presentation\Tamirci.Presentation.csproj" />
     <ProjectReference Include="..\Infrastructure\Tamirci.Repositories\Tamirci.Repositories.csproj" />
   </ItemGroup>
 

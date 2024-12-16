@@ -155,3 +155,12 @@ C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\tr\Mi
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Application.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Presentation.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Services.Contracts.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Services.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Presentation.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Application.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Services.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Services.Contracts.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\ServicesRegisterPlugin.dll

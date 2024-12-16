@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Factories\" />
+    <PackageReference Include="AutoDIRegister" Version="1.0.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tamirci.Entities\Tamirci.Entities.csproj" />
+    <ProjectReference Include="..\Tamirci.Application\Tamirci.Application.csproj" />
   </ItemGroup>
 
 </Project>

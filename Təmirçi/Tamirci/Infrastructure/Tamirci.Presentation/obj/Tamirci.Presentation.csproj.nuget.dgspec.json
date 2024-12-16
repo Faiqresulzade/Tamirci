@@ -4,6 +4,71 @@
     "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj",
+        "projectName": "Tamirci.Application",
+        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj",
+        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
+                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -46,6 +111,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoDIRegister": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -96,8 +165,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj"
+              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj": {
+                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj"
               }
             }
           }
@@ -116,6 +185,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoDIRegister": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
