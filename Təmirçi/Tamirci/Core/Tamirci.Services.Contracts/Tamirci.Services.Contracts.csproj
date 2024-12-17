@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoDIRegister" Version="1.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
   </ItemGroup>
 
   <ItemGroup>

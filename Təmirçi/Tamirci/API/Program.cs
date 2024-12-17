@@ -6,14 +6,17 @@ using Tamirci.Repositories;
 using Tamirci.Repositories.Registrations;
 using Tamirci.Services;
 using Tamirci.Services.Contracts;
+using Tamirci.Services.Registrations;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers().AddApplicationPart(typeof(AssemblyReferance).Assembly);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IServiceManager,ServiceManager>();
 builder.Services.AddDataProtection();
+
+builder.Services.AddServices(builder.Configuration);
+
 builder.Services.AddIdentityCore<Craftsman>(opt =>
 {
     opt.Password.RequireNonAlphanumeric = false; 

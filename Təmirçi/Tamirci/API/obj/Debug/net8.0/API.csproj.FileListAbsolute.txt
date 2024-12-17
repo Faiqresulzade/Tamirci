@@ -164,3 +164,8 @@ C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamir
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Services.pdb
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Services.Contracts.pdb
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\ServicesRegisterPlugin.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Shared.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Shared.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -20,3 +20,5 @@ C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Pre
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Presentation\obj\Debug\net8.0\Tamirci..069251F9.Up2Date
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Presentation\bin\Debug\net8.0\Tamirci.Application.dll
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Presentation\bin\Debug\net8.0\Tamirci.Application.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Presentation\bin\Debug\net8.0\Tamirci.Shared.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Infrastructure\Tamirci.Presentation\bin\Debug\net8.0\Tamirci.Shared.pdb

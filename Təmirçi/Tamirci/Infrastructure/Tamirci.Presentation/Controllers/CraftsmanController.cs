@@ -10,9 +10,10 @@ public class CraftsmanController : BaseController
     public CraftsmanController(IServiceManager serviceManager) : base(serviceManager) { }
 
     [HttpPost]
-    public async Task<IActionResult> Register([FromForm]CraftsmanRegisterDto request)
+    public async Task<IActionResult> Register([FromForm] CraftsmanRegisterDto request)
     {
-       await _serviceManager.CraftsmanService.RegisterAsync(request);
+        if (ModelState.IsValid) { }
+        await _serviceManager.CraftsmanService.RegisterAsync(request);
         return Ok();
     }
 }
