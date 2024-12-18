@@ -50,13 +50,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FluentValidation": {
+            "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[11.11.0, )"
+              "version": "[11.3.0, )"
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[11.11.0, )"
+              "version": "[11.9.1, )"
             },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",

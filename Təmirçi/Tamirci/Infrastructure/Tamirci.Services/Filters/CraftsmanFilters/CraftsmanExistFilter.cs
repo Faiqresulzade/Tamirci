@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Tamirci.Application.DTOs;
+using Tamirci.Entities;
 using Tamirci.Services.Contracts;
 
 namespace Tamirci.Services.Filters.CraftsmanFilters;
@@ -36,6 +37,7 @@ public class CraftsmanExistFilter : IAsyncActionFilter
             context.Result = new BadRequestObjectResult("Bu telefon nömrəsi artıq istifadə olunur.");
             return;
         }
+        _serviceManager.Get<Craftsman>().set
         await next();
     }
 }

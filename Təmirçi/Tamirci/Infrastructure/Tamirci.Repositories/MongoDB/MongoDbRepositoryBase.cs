@@ -10,28 +10,28 @@ public abstract class MongoDbRepositoryBase<T> : RepositoryBase<T>, IMongoDbRepo
         throw new NotImplementedException();
     }
 
-    public override void Delete(T entity)
+    public virtual void Delete(T entity)
     {
         throw new NotImplementedException();
     }
 
 
-    public override IQueryable<T> FindAll()
+    public virtual IQueryable<T> FindAll()
     {
         throw new NotImplementedException();
     }
 
-    public override IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
+    public virtual IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
     {
         throw new NotImplementedException();
     }
 
-    public override Task<T> FindById<TypeOfId>(TypeOfId id)
+    public virtual Task<T> FindById<TypeOfId>(TypeOfId id)
     {
         throw new NotImplementedException();
     }
 
-    public override void Update(T entity)
+    public virtual void Update(T entity)
     {
         throw new NotImplementedException();
     }

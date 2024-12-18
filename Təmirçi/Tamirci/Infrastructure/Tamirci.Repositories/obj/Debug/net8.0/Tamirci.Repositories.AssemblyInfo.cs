@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tamirci.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ad9cec40dabd0a9f1e176503b60677f809f30fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2de49c07e352c21c17c4ac6070f143f54bcec157")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tamirci.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tamirci.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

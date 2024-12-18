@@ -169,3 +169,4 @@ C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamir
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\Tamirci.Shared.pdb
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll

@@ -8,6 +8,8 @@ using Tamirci.Shared.Models;
 using FluentValidation;
 using Tamirci.Application;
 using System.Globalization;
+using Tamirci.Application.Validations;
+using FluentValidation.AspNetCore;
 
 namespace Tamirci.Services.Registrations;
 
@@ -16,7 +18,12 @@ public static class DIRegister
     public static void AddServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddControllersWithViews(options => options.Filters.Add(typeof(CraftsmanExistFilter)));
+
         services.AddValidatorsFromAssembly(typeof(ApplicationAssemblyReference).Assembly);
+        services.AddFluentValidationAutoValidation();
+        services.AddHttpContextAccessor();
+
+
         services.Configure<TokenSetting>(configuration.GetSection("JWt"));
         ValidatorOptions.Global.LanguageManager.Culture = new CultureInfo("az");
         services.AddAuthentication(opt =>

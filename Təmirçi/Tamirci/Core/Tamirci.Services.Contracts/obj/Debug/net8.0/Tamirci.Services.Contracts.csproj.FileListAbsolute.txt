@@ -16,3 +16,5 @@ C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Cont
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\obj\Debug\net8.0\Tamirci..F115CB73.Up2Date
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Application.dll
 C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Application.pdb
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Repository.Contracts.dll
+C:\Users\Honor\Desktop\TemirciSayti\Təmirçi\Tamirci\Core\Tamirci.Services.Contracts\bin\Debug\net8.0\Tamirci.Repository.Contracts.pdb

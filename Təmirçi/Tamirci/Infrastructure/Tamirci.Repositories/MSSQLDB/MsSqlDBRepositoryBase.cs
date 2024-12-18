@@ -5,32 +5,33 @@ namespace Tamirci.Repositories.MSSQLDB;
 
 public abstract class MsSqlDBRepositoryBase<T> : RepositoryBase<T>, IMsSqlDBRepositoryBase<T> where T : class
 {
-    public async override Task Create(T entity)
+    public override async Task Create(T entity)
+    {
+        
+        throw new NotImplementedException();
+    }
+
+    public virtual void Delete(T entity)
     {
         throw new NotImplementedException();
     }
 
-    public override void Delete(T entity)
+    public virtual IQueryable<T> FindAll()
     {
         throw new NotImplementedException();
     }
 
-    public override IQueryable<T> FindAll()
+    public virtual IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
     {
         throw new NotImplementedException();
     }
 
-    public override IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
+    public virtual async Task<T> FindById<TypeOfId>(TypeOfId id)
     {
         throw new NotImplementedException();
     }
 
-    public async override Task<T> FindById<TypeOfId>(TypeOfId id)
-    {
-        throw new NotImplementedException();
-    }
-
-    public override void Update(T entity)
+    public virtual void Update(T entity)
     {
         throw new NotImplementedException();
     }
