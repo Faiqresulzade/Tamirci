@@ -1,5 +1,8 @@
-﻿namespace Tamirci.Repository.Contracts;
+﻿using Tamirci.Repository.Contracts.HttpContextCache;
 
-public interface IRepositoryManager
+namespace Tamirci.Repository.Contracts;
+
+public interface IRepositoryManager<T>
 {
+    public IHttpContextCacheRepository<T> HttpContextCacheRepository { get; }
 }

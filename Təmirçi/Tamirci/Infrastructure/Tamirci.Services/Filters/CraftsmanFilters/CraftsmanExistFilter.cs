@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Filters;
 using Tamirci.Application.DTOs;
 using Tamirci.Entities;
+using Tamirci.Repository.Contracts;
 using Tamirci.Services.Contracts;
 
 namespace Tamirci.Services.Filters.CraftsmanFilters;
@@ -9,7 +10,12 @@ namespace Tamirci.Services.Filters.CraftsmanFilters;
 public class CraftsmanExistFilter : IAsyncActionFilter
 {
     private readonly IServiceManager _serviceManager;
-    public CraftsmanExistFilter(IServiceManager serviceManager) => _serviceManager = serviceManager;
+    private readonly IRepositoryManager<Craftsman> _repositoryManager;
+    public CraftsmanExistFilter(IServiceManager serviceManager, IRepositoryManager<Craftsman> repositoryManager)
+    {
+        _serviceManager = serviceManager;
+        _repositoryManager = repositoryManager;
+    }
 
     public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
     {
@@ -30,14 +36,14 @@ public class CraftsmanExistFilter : IAsyncActionFilter
             return;
         }
 
-        var existingPhoneNumberUser =  _serviceManager.UserManager.Users.Any(u => u.PhoneNumber == request.PhoneNumber);
+        var existingPhoneNumberUser = _serviceManager.UserManager.Users.Any(u => u.PhoneNumber == request.PhoneNumber);
 
         if (existingPhoneNumberUser)
         {
             context.Result = new BadRequestObjectResult("Bu telefon nömrəsi artıq istifadə olunur.");
             return;
         }
-        _serviceManager.Get<Craftsman>().set
+        await _repositoryManager.HttpContextCacheRepository.Create(existingUser!);
         await next();
     }
 }

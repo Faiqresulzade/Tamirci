@@ -14,7 +14,8 @@ public class CraftsmanConfiguration : IEntityTypeConfiguration<Craftsman>
 
         builder.Property(x => x.CreateDate)
                   .HasDefaultValueSql("CURRENT_TIMESTAMP") 
-                  .ValueGeneratedOnAdd(); 
+                  .ValueGeneratedOnAdd();
+        builder.Property(x => x.IsActive).HasDefaultValue<bool>(true).IsRequired();
 
         builder.Property(x => x.UpdateDate)
                .HasDefaultValueSql("CURRENT_TIMESTAMP")
