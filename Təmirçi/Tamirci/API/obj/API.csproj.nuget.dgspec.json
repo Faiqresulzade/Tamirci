@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\API\\API.csproj": {}
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\API\\API.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\API\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj"
               },
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj"
               }
             }
           }
@@ -47,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -89,21 +93,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj",
         "projectName": "Tamirci.Application",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,15 +119,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj"
               }
             }
           }
@@ -133,7 +140,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -168,21 +176,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj",
         "projectName": "Tamirci.Entities",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,7 +202,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -208,7 +219,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -239,21 +251,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj",
         "projectName": "Tamirci.Repository.Contracts",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -261,15 +277,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Entities\\Tamirci.Entities.csproj"
               }
             }
           }
@@ -283,7 +298,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -304,21 +320,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj",
         "projectName": "Tamirci.Services.Contracts",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -326,18 +346,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Application\\Tamirci.Application.csproj"
               },
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj"
               }
             }
           }
@@ -351,7 +370,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -382,21 +402,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj",
         "projectName": "Tamirci.Shared",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -404,7 +428,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -422,7 +445,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -443,21 +467,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj",
         "projectName": "Tamirci.Presentation",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\Tamirci.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Presentation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -465,15 +493,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj"
               }
             }
           }
@@ -487,7 +514,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -514,21 +542,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
         "projectName": "Tamirci.Repositories",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\Tamirci.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -536,15 +568,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Repository.Contracts\\Tamirci.Repository.Contracts.csproj"
               }
             }
           }
@@ -558,7 +589,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -603,21 +635,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj": {
+    "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj",
         "projectName": "Tamirci.Services",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\obj\\",
+        "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\Tamirci.Services.csproj",
+        "packagesPath": "C:\\Users\\Mirgubad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Infrastructure\\Tamirci.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirgubad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -625,18 +661,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Services.Contracts\\Tamirci.Services.Contracts.csproj"
               },
-              "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\TemirciSayti\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj"
+              "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj": {
+                "projectPath": "C:\\Users\\Mirgubad\\Desktop\\FaiqProject\\Tamirci\\Təmirçi\\Tamirci\\Core\\Tamirci.Shared\\Tamirci.Shared.csproj"
               }
             }
           }
@@ -650,7 +685,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -677,7 +713,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
