@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tamirci.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93fe47bc4cfd120934232ada59d42debf27df653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2742756f77444061ecb3fd8721809e99e3e0f3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tamirci.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tamirci.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

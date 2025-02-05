@@ -30,14 +30,14 @@ public class CraftsmanExistFilter : IAsyncActionFilter
             return;
         }
 
-        var existingPhoneNumberUser =  _serviceManager.UserManager.Users.Any(u => u.PhoneNumber == request.PhoneNumber);
+        var existingPhoneNumberUser = _serviceManager.UserManager.Users.Any(u => u.PhoneNumber == request.PhoneNumber);
 
         if (existingPhoneNumberUser)
         {
             context.Result = new BadRequestObjectResult("Bu telefon nömrəsi artıq istifadə olunur.");
             return;
         }
-        _serviceManager.Get<Craftsman>().set
+        _serviceManager.Get<Craftsman>();
         await next();
     }
 }
