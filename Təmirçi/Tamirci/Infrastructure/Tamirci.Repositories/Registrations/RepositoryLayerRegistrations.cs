@@ -2,7 +2,6 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Tamirci.Repositories.HttpContextCache;
-using Tamirci.Repository.Contracts;
 using Tamirci.Repository.Contracts.HttpContextCache;
 
 namespace Tamirci.Repositories.Registrations;
@@ -13,6 +12,6 @@ public static class RepositoryLayerRegistrations
     {
         services.AddDbContext<AppDbContext>(x => x.UseSqlServer(configuration.GetConnectionString("Default")));
         services.AddScoped(typeof(IHttpContextCacheRepository<>), typeof(HttpContextCacheRepository<>));
-        services.AddScoped(typeof(IRepositoryManager<>),typeof(RepositoryManager<>));
+
     }
 }

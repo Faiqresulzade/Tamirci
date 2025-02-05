@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Tamirci.Repository.Contracts.HttpContextCache;
 
 namespace Tamirci.Repositories.HttpContextCache;
 
-public class HttpContextCacheRepository<T> : RepositoryBase<T>, IHttpContextCacheRepository<T> where T : class
+public class HttpContextCacheRepository<T> : RepositoryBase<T> where T : class
 {
     private readonly IHttpContextAccessor _httpContextAccessor;
 

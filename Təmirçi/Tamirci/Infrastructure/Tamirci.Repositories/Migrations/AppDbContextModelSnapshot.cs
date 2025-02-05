@@ -180,9 +180,7 @@ namespace Tamirci.Repositories.Migrations
                         .HasColumnType("bit");
 
                     b.Property<bool>("IsActive")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("bit")
-                        .HasDefaultValue(true);
+                        .HasColumnType("bit");
 
                     b.Property<string>("Location")
                         .IsRequired()
@@ -285,7 +283,7 @@ namespace Tamirci.Repositories.Migrations
                     b.HasIndex("CraftsmanId")
                         .IsUnique();
 
-                    b.ToTable("RefreshToken", (string)null);
+                    b.ToTable("RefreshToken");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

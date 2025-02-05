@@ -12,8 +12,8 @@ public class CraftsmanController : BaseController
     [HttpPost]
     public async Task<IActionResult> Register([FromForm] CraftsmanRegisterDto request)
     {
-      
+        if (ModelState.IsValid) { return BadRequest(); }
         await _serviceManager.CraftsmanService.RegisterAsync(request);
-        return Created();
+        return Ok();
     }
 }
